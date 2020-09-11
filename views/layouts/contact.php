@@ -1,11 +1,11 @@
-<div class="contact-wrapper px-3 px-md-0 py-5 font-raleway bg-white">
+<section class="contact-wrapper px-3 px-md-0 pt-5 font-raleway bg-white">
     <div class="container">
         <div class="contact-title mb-5 pb-3 text-center">
             <h2 class="h1 font-200 font-poppins text-uppercase">
                 Os meus <span class="font-800" id="contact">contactos</span>
             </h2>
 
-            <div class="separator position-relative d-inline-block font-800">
+            <div class="separator position-relative d-inline-block font-800 color-text">
                 { }
             </div>
         </div>
@@ -17,14 +17,14 @@
             <div class="contacts col-md-5 col-lg-4 mb-4 mb-md-0">
                 <div class="contact-text pb-2">
                     <h3 class="pb-2 font-poppins font-800 text-uppercase">Contacte-me</h3>
-                    <p class="p-0"> Sinta-se à vontade para me contactar. Estou sempre disponível para novos projectos, ideias criativas ou para fazer parte da sua equipa.</p>
+                    <p class="p-0 main-color"> Sinta-se à vontade para me contactar. Estou sempre disponível para novos projectos, ideias criativas ou para fazer parte da sua equipa.</p>
                 </div>
                 <!--end contact-text-->
 
                 <div class="phone position-relative mb-4">
                     <i class="fas fa-phone-square-alt position-absolute color-text"></i>
-                    <p class="font-600">
-                        <span class="d-block font-400 color-text">Telefone</span>
+                    <p class="font-400 main-color">
+                        <span class="d-block font-600 color-text">Telefone</span>
                         933 189 813
                     </p>
                 </div>
@@ -32,8 +32,8 @@
 
                 <div class="email position-relative">
                     <i class="fas fa-envelope-square position-absolute color-text"></i>
-                    <p class="font-600">
-                        <span class="d-block font-400 color-text">Email</span>
+                    <p class="font-400 main-color">
+                        <span class="d-block font-600 color-text">Email</span>
                         joao.mira01@gmail.com
                     </p>
                 </div>
@@ -76,5 +76,5 @@
         <!--end contact-row-->
     </div>
     <!--end container-->
-</div>
+</section>
 <!--end contact-wrapper-->
